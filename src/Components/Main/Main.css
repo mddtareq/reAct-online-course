@@ -1,0 +1,17 @@
+.main{
+    display:flex;
+
+}
+.courses{
+    width:80%;
+    border-right:6px solid rgba(116, 177, 121, 0.294);
+}
+.courseList{
+    overflow:hidden;
+}
+.h2Edit{
+    text-align:center;
+}
+.cart{
+    margin-left:20px;
+}
